@@ -1,7 +1,7 @@
 # codelgniter
 
 
-hopelijk is de analyse verstaanbaat ik heb de werk wat verdeelt zo als te zien is mis ik nog veel 
+hopelijk is de analyse verstaanbaar ik heb de werk wat verdeelt zo als te zien is mis ik nog veel 
 ik heb een paar dingen all maar ze zijn door de waar + ik moet ze vertalen en mijn hersen werken jammer genoeg niet in stapjes dat is iets wat ik moet aan leren. 
 ik voelde dat analyse te kort was maar ik vond het verstaanbaar 
 
