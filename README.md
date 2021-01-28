@@ -1,4 +1,4 @@
 # codelgniter
 
 
-weer opdate code in document klink raar maar  con niet anders
+weer opdate code in document klink raar maar kon niet anders
